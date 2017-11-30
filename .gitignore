@@ -1,0 +1,4 @@
+DeserializationPOC/bin/**
+DeserializationPOC/obj/**
+.vs/**
+packages/**
